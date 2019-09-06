@@ -40,8 +40,8 @@ Updated version: 27.05.2016
 ## Contact Information
 
 In case of any interest on collaborations or for further information, please contact us through the following emails:  
-mtcazzolato@gmail.com (Mirela Cazzolato)  
-agma@icmc.usp.br (Agma Juci Machado Traina)  
+- Mirela Cazzolato: mtcazzolato@gmail.com  
+- Agma Juci Machado Traina: agma@icmc.usp.br    
 
 ## License and Citation Request
 
