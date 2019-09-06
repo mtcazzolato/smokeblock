@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="detector" displayName="detector" projectFiles="true">
+      <itemPath>detector/NBClassifier.cpp</itemPath>
+      <itemPath>detector/NBClassifier.hpp</itemPath>
+      <itemPath>detector/Slic.cpp</itemPath>
+      <itemPath>detector/Slic.hpp</itemPath>
+      <itemPath>detector/SmokeBlockClassifier.cpp</itemPath>
+      <itemPath>detector/SmokeBlockClassifier.hpp</itemPath>
+      <itemPath>detector/SmokeBlockResult.cpp</itemPath>
+      <itemPath>detector/SmokeBlockResult.hpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="SiM" displayName="SiM" projectFiles="true">
+        <logicalFolder name="include" displayName="include" projectFiles="true">
+          <logicalFolder name="artemis" displayName="artemis" projectFiles="true">
+            <logicalFolder name="extractor" displayName="extractor" projectFiles="true">
+              <itemPath>SiM/include/artemis/extractor/BICHistogramExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/BICHistogramExtractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ColorLayout-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ColorLayout.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ColorStructure-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ColorStructure.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ColorTemperature-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ColorTemperature.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/DaubechiesExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/DaubechiesExtractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/DiscreteCosineTransformation.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/DiscreteCosineTransformation.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/EdgeHistogram.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/EdgeHistogram.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/EdgeHistogramExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/EdgeHistogramExtractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/Extractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HMMDColorSystem.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HMMDColorSystem.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HSVColorSystem.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HSVColorSystem.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HaarExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HaarExtractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HaralickExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HaralickExtractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HaralickFeature.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/HaralickFeature.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/LocalBinaryPatternExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/LocalBinaryPatternExtractor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/MetricHistogram-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/MetricHistogram.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/NormalizedHistogram-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/NormalizedHistogram.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/SRGBColorSystem.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/SRGBColorSystem.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ScalableColor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ScalableColor.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/TextureBrowsing-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/TextureBrowsing.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/TextureSpectrum-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/TextureSpectrum.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/TotalColorHistogram-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/TotalColorHistogram.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/Wavelets-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/Wavelets.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/XYZColorSystem.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/XYZColorSystem.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/YCrCbColorSystem.cpp</itemPath>
+              <itemPath>SiM/include/artemis/extractor/YCrCbColorSystem.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ZernikeExtractor-inl.h</itemPath>
+              <itemPath>SiM/include/artemis/extractor/ZernikeExtractor.h</itemPath>
+            </logicalFolder>
+            <logicalFolder name="image" displayName="image" projectFiles="true">
+              <logicalFolder name="bmp" displayName="bmp" projectFiles="true">
+                <itemPath>SiM/include/artemis/image/bmp/BmpLib.cpp</itemPath>
+                <itemPath>SiM/include/artemis/image/bmp/BmpLib.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="jpg" displayName="jpg" projectFiles="true">
+                <itemPath>SiM/include/artemis/image/jpg/JpgLib.cpp</itemPath>
+                <itemPath>SiM/include/artemis/image/jpg/JpgLib.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="krl" displayName="krl" projectFiles="true">
+                <itemPath>SiM/include/artemis/image/krl/FileHandler.cpp</itemPath>
+                <itemPath>SiM/include/artemis/image/krl/FileHandler.h</itemPath>
+                <itemPath>SiM/include/artemis/image/krl/KrlLib.cpp</itemPath>
+                <itemPath>SiM/include/artemis/image/krl/KrlLib.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="png" displayName="png" projectFiles="true">
+                <itemPath>SiM/include/artemis/image/png/PngLib.cpp</itemPath>
+                <itemPath>SiM/include/artemis/image/png/PngLib.h</itemPath>
+              </logicalFolder>
+              <itemPath>SiM/include/artemis/image/ImageBase.cpp</itemPath>
+              <itemPath>SiM/include/artemis/image/ImageBase.h</itemPath>
+              <itemPath>SiM/include/artemis/image/Pixel.cpp</itemPath>
+              <itemPath>SiM/include/artemis/image/Pixel.h</itemPath>
+            </logicalFolder>
+            <itemPath>SiM/include/artemis/Artemis.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="hermes" displayName="hermes" projectFiles="true">
+            <logicalFolder name="src" displayName="src" projectFiles="true">
+              <itemPath>SiM/include/hermes/src/BrayCurtisDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/BrayCurtisDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/CanberraDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/CanberraDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/ChebyshevDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/ChebyshevDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/ColorLayoutDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/ColorLayoutDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/DTWDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/DTWDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/DistanceFunction.h</itemPath>
+              <itemPath>SiM/include/hermes/src/EuclideanDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/EuclideanDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/Evaluator.h</itemPath>
+              <itemPath>SiM/include/hermes/src/JeffreyDivergenceDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/JeffreyDivergenceDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/KullbackLeiblerDivergenceDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/KullbackLeiblerDivergenceDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/LEdit-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/LEdit.h</itemPath>
+              <itemPath>SiM/include/hermes/src/MahalanobisDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/MahalanobisDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/ManhattanDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/ManhattanDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/MetricHistogramDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/MetricHistogramDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/MorositaDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/MorositaDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/QuiSquareDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/QuiSquareDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/SpearmanDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/SpearmanDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/SquaredChordDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/SquaredChordDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/SumProductDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/SumProductDistance.h</itemPath>
+              <itemPath>SiM/include/hermes/src/WarpDistance-inl.h</itemPath>
+              <itemPath>SiM/include/hermes/src/WarpDistance.h</itemPath>
+            </logicalFolder>
+            <itemPath>SiM/include/hermes/Hermes.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="util" displayName="util" projectFiles="true">
+            <itemPath>SiM/include/util/BasicArrayObject.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>SiM</Elem>
+    <Elem>detector</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>/usr/local/include/opencv2</pElem>
+            <pElem>SiM/include/artemis</pElem>
+            <pElem>SiM/include/artemis/extractor</pElem>
+            <pElem>SiM/include/artemis/image</pElem>
+            <pElem>SiM/include/artemis/image/jpg</pElem>
+            <pElem>SiM/include/artemis/image/png</pElem>
+            <pElem>SiM/include/artemis/image/bmp</pElem>
+            <pElem>SiM/include/hermes</pElem>
+            <pElem>SiM/include/hermes/src</pElem>
+            <pElem>SiM/include/util</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <linkerDynSerch>
+            <pElem>/usr/local/include/opencv2</pElem>
+          </linkerDynSerch>
+          <linkerLibItems>
+            <linkerOptionItem>`pkg-config --libs opencv`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="SiM/include/artemis/Artemis.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/BICHistogramExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/BICHistogramExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorLayout-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorLayout.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorStructure-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorStructure.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorTemperature-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorTemperature.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DaubechiesExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DaubechiesExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DiscreteCosineTransformation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DiscreteCosineTransformation.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogram.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogramExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogramExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/Extractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HMMDColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HMMDColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HSVColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HSVColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaarExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaarExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickFeature.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickFeature.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/LocalBinaryPatternExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/LocalBinaryPatternExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/MetricHistogram-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/MetricHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/NormalizedHistogram-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/NormalizedHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/SRGBColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/SRGBColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ScalableColor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ScalableColor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureBrowsing-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureBrowsing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureSpectrum-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureSpectrum.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TotalColorHistogram-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TotalColorHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/Wavelets-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/Wavelets.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/XYZColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/XYZColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/YCrCbColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/YCrCbColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ZernikeExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ZernikeExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/ImageBase.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/ImageBase.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/Pixel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/Pixel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/bmp/BmpLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/bmp/BmpLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/jpg/JpgLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/jpg/JpgLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/FileHandler.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/FileHandler.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/KrlLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/KrlLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/png/PngLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/png/PngLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/Hermes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/BrayCurtisDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/BrayCurtisDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/CanberraDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/CanberraDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ChebyshevDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ChebyshevDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ColorLayoutDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ColorLayoutDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/DTWDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/DTWDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/DistanceFunction.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/EuclideanDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/EuclideanDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/Evaluator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/JeffreyDivergenceDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/JeffreyDivergenceDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/KullbackLeiblerDivergenceDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/KullbackLeiblerDivergenceDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/LEdit-inl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/LEdit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MahalanobisDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MahalanobisDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ManhattanDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ManhattanDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MetricHistogramDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MetricHistogramDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MorositaDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MorositaDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/QuiSquareDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/QuiSquareDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SpearmanDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SpearmanDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SquaredChordDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SquaredChordDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SumProductDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SumProductDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/WarpDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/WarpDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/util/BasicArrayObject.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="detector/NBClassifier.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/NBClassifier.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="detector/Slic.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/Slic.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockClassifier.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockClassifier.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockResult.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockResult.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="SiM/include/artemis/Artemis.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/BICHistogramExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/BICHistogramExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorLayout-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorLayout.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorStructure-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorStructure.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorTemperature-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ColorTemperature.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DaubechiesExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DaubechiesExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DiscreteCosineTransformation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/DiscreteCosineTransformation.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogram.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogramExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/EdgeHistogramExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/Extractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HMMDColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HMMDColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HSVColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HSVColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaarExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaarExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickFeature.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/HaralickFeature.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/LocalBinaryPatternExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/LocalBinaryPatternExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/MetricHistogram-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/MetricHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/NormalizedHistogram-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/NormalizedHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/SRGBColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/SRGBColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ScalableColor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ScalableColor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureBrowsing-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureBrowsing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureSpectrum-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TextureSpectrum.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TotalColorHistogram-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/TotalColorHistogram.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/Wavelets-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/Wavelets.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/XYZColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/XYZColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/YCrCbColorSystem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/YCrCbColorSystem.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ZernikeExtractor-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/extractor/ZernikeExtractor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/ImageBase.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/ImageBase.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/Pixel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/Pixel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/bmp/BmpLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/bmp/BmpLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/jpg/JpgLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/jpg/JpgLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/FileHandler.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/FileHandler.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/KrlLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/krl/KrlLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/png/PngLib.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/artemis/image/png/PngLib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/Hermes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/BrayCurtisDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/BrayCurtisDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/CanberraDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/CanberraDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ChebyshevDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ChebyshevDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ColorLayoutDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ColorLayoutDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/DTWDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/DTWDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/DistanceFunction.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/EuclideanDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/EuclideanDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/Evaluator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/JeffreyDivergenceDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/JeffreyDivergenceDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/KullbackLeiblerDivergenceDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/KullbackLeiblerDivergenceDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/LEdit-inl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/LEdit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MahalanobisDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MahalanobisDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ManhattanDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/ManhattanDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MetricHistogramDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MetricHistogramDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MorositaDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/MorositaDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/QuiSquareDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/QuiSquareDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SpearmanDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SpearmanDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SquaredChordDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SquaredChordDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SumProductDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/SumProductDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/WarpDistance-inl.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/hermes/src/WarpDistance.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="SiM/include/util/BasicArrayObject.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="detector/NBClassifier.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/NBClassifier.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="detector/Slic.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/Slic.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockClassifier.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockClassifier.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockResult.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="detector/SmokeBlockResult.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
