@@ -1,6 +1,6 @@
 # The SmokeBlock Approach
 
-Implementation of the work published in AMC SAC 2016:  
+Implementation of the work published in AMC SAC 2016  
 
 ## Method, Input and Output
 The SmokeBlock approach works in the following way. Given an input image:  
